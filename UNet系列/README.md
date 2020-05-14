@@ -1,5 +1,5 @@
 # SemanticSegmentationSOTA/UNet系列/
-nnUNet文章解读
+**********************************nnUNet文章解读********************************************************
 1.数据预处理
 CT图像求前景的CT值，采用CT值的0.5%~0.95%对图像进行灰度值截断；
 CT和MRI进行全局标准化，v' = (v - Mean)/std, mean和std是所有训练集中前景象素的均值和标准差；
@@ -20,5 +20,9 @@ Padding 卷积， instance normalization, Leaky ReLU;
 4.推理阶段
 采用滑动窗，取patch size的一般进行预测；根据交叉验证结果，对2D、3D、以及Cascade模型进行集成，也对交叉验证的5个模型进行集成。
 
-non-local UNet论文解读
+*********************************non-local UNet论文解读*************************************************
 1.链接：https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247496999&idx=4&sn=f0d982e637a909736fdaa7beb6e84d97&chksm=f9a187a8ced60ebe9838710825652ca75a24fd856d1ae98a9ecf2db18665a83b666bede3f593&scene=0&xtrack=1&key=1f1e787ff7a3f90215d8e152336fabdc6135ac5bc4aae6737b0452ec9a166553ba14e610936e323cbc5b20e7d32eeba8a8973c6d703d4df6b2947fe9d98637dc071447cc28a66221c64aec3328aca7a3&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A1fFb%2FMT9pAoAIjXKnbVS94%3D&pass_ticket=uAqF69sdO2x6u8blAYWN1zHW%2BaV0LauVzve1wRTHD2XW4%2BoLkb2Sadp4EU86bsVs
+
+*********************************MultiResUNet***********************************************************
+1.代码地址：https://github.com/nibtehaz/MultiResUNet
+
