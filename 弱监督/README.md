@@ -1,0 +1,4 @@
+# SemanticSegmentationSOTA
+1. "Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation"
+论文解释：https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247498880&idx=3&sn=57c6a5dfddc6dc8c1730963f09c68535&chksm=f9a18e0fced6071972b15aedce16efd22478739387f46521b37cfaca934f228d7bf2f86844ae&mpshare=1&scene=1&srcid=0516u9QrrydhYZ6gMpNdzVbo&sharer_sharetime=1589609649494&sharer_shareid=1457b5f9adcd4bad2bd4c8a878b3fa6f&key=f4f05596ca2dcc749fbdbf3174dcaea608297e193eeeeceb4995cd88f5329b010a684a4ab58684c64491cae6526ef4a3cf0d42fa03fca5dd6fdd2612e666d0c3335a0725d246b265407ed1f67f9f12b6&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A5cwNv7h%2FbUxsoTFv1R%2B%2BHU%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+

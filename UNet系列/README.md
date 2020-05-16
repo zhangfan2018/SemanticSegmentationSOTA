@@ -1,4 +1,13 @@
 # SemanticSegmentationSOTA/UNet系列/
+一.论文综述
+图像分割的U-Net系列方法
+https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247493160&idx=1&sn=93c06b65e04d8c7034fd50d916c6e136&chksm=ec1c0bd1db6b82c72e18cbdf01e609127c4ed452ec1a41e13000c0f86945b34d84cd25736e76&mpshare=1&scene=24&srcid=0411rQnM9nDaB8nR884MwCcl&sharer_sharetime=1586566488017&sharer_shareid=1457b5f9adcd4bad2bd4c8a878b3fa6f&key=042d77279f472613c451ae20809978132c9b887a431a130847400df30a73c9333b65913e454a414e227312e67423e0e75722443d66070bc2db8953d290fdbb653dcc446b915165029d20df3128e314b2&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A0bmQV5Ju34Dt%2FXaY%2BDMsqI%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+Unet神经网络为什么会在医学图像分割表现好？ 
+https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247491119&idx=1&sn=a2ad7c18b132f6df0e3cf3875fcfd642&chksm=ec1ff3d6db687ac018bf5660678eb7d8587fc5a249961500950315641f84769e8f0c70d1116c&mpshare=1&scene=24&srcid=0411WAjG8FCNLfiIM8E023SS&sharer_sharetime=1586565634456&sharer_shareid=1457b5f9adcd4bad2bd4c8a878b3fa6f&key=6ed4a988d1572e44df0c18b9d991b30edca482b4629e551d26578b1e1dbae911b16063d2cda10dcf7acfcd94f90a75911f94187b36f55f53ff0a2d65bd9a2c122f600095f410cc2f8897e82dc189923e&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A9X7FUjmfxwYlUh3fQGE8sM%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+当UNet遇见ResNet会发生什么？
+https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494378&idx=3&sn=ae010f07660ccf4ea60dd00e97bdecf8&chksm=ec1c0713db6b8e05584adc2bfa8a97f53b67ee5eb697351809284952132c473b6473f3530953&scene=0&xtrack=1&key=f4f05596ca2dcc74043ddc67d7050254e10cfa19fd3163cacf9f8c421746972c605d9438303b18d26b65c39b4eea319c6f305e7662201d648add8e3ed4659b565af3c53196d9de54fb77394f374c21d1&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A6UFdyBrC9MHyK%2BMqXM2hpQ%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+二.论文解读
 **********************************nnUNet文章解读********************************************************
 1.数据预处理
 CT图像求前景的CT值，采用CT值的0.5%~0.95%对图像进行灰度值截断；

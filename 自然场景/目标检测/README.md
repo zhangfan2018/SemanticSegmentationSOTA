@@ -1,0 +1,11 @@
+# SemanticSegmentationSOTA
+1.GitHub趋势榜第一：超强PyTorch目标检测库Detectron2，训练更快，支持更多任务 
+https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247531686&idx=3&sn=3514b939fa95a9ced8342ffc1ad0bfd5&chksm=e8d0cbd4dfa742c2b05502974225cb3b7aefce950f1da9bd0fe2aee196395eb10377c8f7aa6d&mpshare=1&scene=24&srcid=0412lzRnDmZUWPRYifXaoyRX&sharer_sharetime=1586660024347&sharer_shareid=1457b5f9adcd4bad2bd4c8a878b3fa6f&key=7696a76dfdc98da93374d2941c530f393fbc33e94317ec6219350f9785bb3730ac79426606a86f806ef758c45da304d149ea61ef01361d3e53bc34f6c93b133c97aa5e98903ff5dfd554dac97daf5b0d&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A3mvbGB7gHVfBKO7AmXuMuA%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+2.CenterNet：目标即点（代码已开源）
+https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488971&idx=1&sn=939afe323fe02c364e397f6aa7f66549&chksm=ec1ff832db68712481fefe0237b18fc792b1a72de8a832f6aadf4baaa3c648f99596828e706c&scene=0&xtrack=1&key=1f1e787ff7a3f90271baa516efb6ff3805c0274891cc21084da867d77835d986b592dbee231d1d5859ea21c818d11946794645da6f74d291500e92b61a544d0f6a262badba2bf058c6fdfa0d59b4cc6d&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A3yD6PFFuUIX%2B%2BOKYYOTKCQ%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+3.YOLT: 大尺寸图像目标检测的解决方案 
+http://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494651&idx=2&sn=a42cc8501fd2c13af22d3749a2836937&chksm=ec1c0602db6b8f148ccd2ed49a60e3fcdc3bcf84834e8b8b29a8d03c8df4eb417f0cef8ef8f7&scene=0&xtrack=1#rd
+
+4.

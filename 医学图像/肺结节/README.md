@@ -1,0 +1,5 @@
+# SemanticSegmentationSOTA
+1.肺结节诊治中国共识解读 | CACP 2019 
+https://mp.weixin.qq.com/s?__biz=MzA4MTA3MDIxMw==&mid=2652282701&idx=1&sn=f1830a588c8036878f349ac3b249d94e&chksm=8478aea7b30f27b11a4b786aaf28833de4f1ce0f686706ba30e385845d09676d407813f3f27f&mpshare=1&scene=2&srcid=&from=timeline&key=6af4cd419cf2c40ca2cf5d4c3c1dfb2641bbde993e2a2ddc34116b694de2de78f6d10f8334cbe4ec6e0e836d5774aadc5e0df9ec47f74dacc81018506a3ff5fc809a9d2f10dd3ce84b0a4611c73f5ac9&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A41jzdQ2qibyYfqxt%2FjELlE%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+2.

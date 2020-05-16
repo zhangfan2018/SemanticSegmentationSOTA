@@ -1,0 +1,8 @@
+# SemanticSegmentationSOTA
+1.医学影像分析三部曲
+https://mp.weixin.qq.com/s?__biz=MzU5OTczMDk3NA==&mid=2247483894&idx=1&sn=8f23020b19f455d2005c10ecd8fdd563&chksm=feb13f87c9c6b69122e1b2ace12f302df8005cef28fdeeda8b8c43da08789273a9b1c2d9c42f&mpshare=1&scene=1&srcid=&key=6af4cd419cf2c40cf81c68568184e5c980533caab3bb08e2b81a14e3f81d1edc358e27bfded5d78e043159a460e0b6304f998c0f0a8e5137d6421d8be878c1bae4a1cfa2340c459ddb8aeb912675966d&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A8ZFP54sfBlyUMcRVe2IPvE%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+2.3D医疗影像预训练模型MedicalNet开源 
+https://mp.weixin.qq.com/s?__biz=MzIwMzYwMjkzOQ==&mid=2247484936&idx=1&sn=297524e0a583ba15718cc774ad7d5483&chksm=96cda89ca1ba218ac54a2584c85d17554f1beb703efa35baabe26682c0bbc38cdc80627e43e1&mpshare=1&scene=1&srcid=&key=6af4cd419cf2c40cb94c4abcc7100b2cca8243102cb9719521a60d91bfc644f4b90cb22e4bc353104156454045678eb69990f1c70c6a191c9d5545f1208a1c35206ee7a1ee91e03466fa42c991b62495&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A532B1%2FnT5W3qjS4qCOwaJA%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+3.

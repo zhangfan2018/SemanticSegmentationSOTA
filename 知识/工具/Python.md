@@ -1,0 +1,33 @@
+# SemanticSegmentationSOTA/
+
+1. 
+一个函数打天下，einsum 
+https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489528&idx=1&sn=609c1f83ddc8b5e5f1ad54a128fc2520&chksm=ec1ffa01db687317cc249fc044d460d8abec67bfe7616e4137e5f6ea88759b541a425c5ea745&scene=0&xtrack=1&key=1f1e787ff7a3f9026a6aaf614553c7d2dba6bae923bcb8a9f64540d346de34c04f03eb01b98f52f39607c72d8766e98b3a4b257bc0f359fb420655668d606b89cd9bc39d0f22ce528244b2860fde405b&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A%2BAqaiacMj6zNmUZSJ8x5Jk%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+2. 
+迭代列表不要For循环，这是Python列表推导式最基本的概念 
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770295&idx=4&sn=26adab7562ae4614fbed2c79935d9d71&chksm=871a4f09b06dc61f1d1376ba94e350f18da061faa609bc21dbc46b69a82507be748eb18f31f8&mpshare=1&scene=24&srcid=&sharer_sharetime=1569028428859&sharer_shareid=1457b5f9adcd4bad2bd4c8a878b3fa6f&key=6ed4a988d1572e44e827637064cd9e92ecf0f041c953a7abfffa46215f14cd3424c1d8cd6a9e13bb59eacd589667436950856ec941a108ea23812b1a9770aa9f3ad6d20f46713f0085a9cbdb37c815e8&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A4P4%2FD8LOcPlNxa1Ec%2BiY2Q%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+3.
+Python机器学习，高效选库找工具，GitHub高星资源都在这 
+https://mp.weixin.qq.com/s?__biz=MzI4MTQ2NjU5NA==&mid=2247489746&idx=1&sn=2c07c5a26fe380cea22454b8f50e3e63&chksm=eba99b5fdcde12490e7bfae009a306c3182e76b4b15fd2a36c390cc3b1737a0dce01633a65e5&scene=0&xtrack=1&key=042d77279f47261388aad5359a9b38755f2ea5e45b3f5393b4d96319b8cbe6f51f831251c9749d53ae50aca20e9136bd70b5c3f9ae2143bdb9e79a753bb3e2e022735254b6f0b550e46ef7c3d56dafd6&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A06nG22Re6Uy0XZLrtfGLO8%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+4.
+Python 调试器，一个优秀开发人员的必备技能包
+https://mp.weixin.qq.com/s?__biz=MzUxMTc3NTI4Ng==&mid=2247484069&idx=1&sn=0482e84a3ba0fff6e6dcb429232f6c30&chksm=f96fc5fcce184ceaffff996097ad55da48b8697798f16040dcb948dcbd2f7821fb1d65ac78e6&scene=0&key=6af4cd419cf2c40c2490378ef86bb44fa2b12fe206985d384c36375c32a7aed76efcef78a8676eacf107615bf3f28c76f33d4fa8081404d1fe0f67c3f1ef75123d28ee52d2bc084f496df1c1ef7c4c1c&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A%2F7Yi6ZKGHwfi6%2B8YsqmeLw%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+5.
+面试必备 | 带你彻底搞懂 Python 生成器
+https://mp.weixin.qq.com/s?__biz=MzUxMTc3NTI4Ng==&mid=2247484198&idx=1&sn=1c169a11d3d87a6cf0bfca2893b2a004&chksm=f96fc47fce184d697d4c94fa8dcd9bc51d568410ffce9d74f0d000796923fc4fbb221a933b15&scene=0&key=6af4cd419cf2c40ceedebe2baa832b22e74c043e3dd61c051145f7f03d91afcc01fad43556f9659565272d3541c5ad344a90ccdbd3bd83f84d59df8bbb5c4fca6368ead946e440e3763ecd8bf22f08e5&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AxFzLsx0XJp4C%2F32ts0%2BKxc%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
+6.
+30段极简Python代码：这些小技巧你都Get了么 
+http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770670&idx=5&sn=332193c3453bdb70af400f63c6b78db0&chksm=871a4890b06dc186aa7e580446acbfc704b823f38df60e7039b4a6ba12fdb60fbf0e8819904a&scene=0&xtrack=1#rd
+
+7.装饰器的作用就是为已经存在的函数或对象添加额外的功能。
+装饰器应用场景及理解：
+装饰器本质上是一个Python函数，它可以让其他函数在不需要做任何代码变动的前提下增加额外功能
+它经常用于有切面需求的
+场景，比如：插入日志、性能测试、事务处理、缓存、权限校验等场景。
+
+8.

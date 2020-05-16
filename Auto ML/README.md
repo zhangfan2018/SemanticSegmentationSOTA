@@ -1,0 +1,4 @@
+# SemanticSegmentationSOTA
+1.Learning Dynamic Routing for Semantic Segmentation
+https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247494432&idx=2&sn=5481ab037dc77dd32b6b15073c932c3d&chksm=ec1c06d9db6b8fcf2aeaf2b8bd26b8805085f37c570d390b5901fbb40ff32363b6f0bc28aa10&scene=0&xtrack=1&key=1f1e787ff7a3f902fe7ed13caa4e301d0160c87035dd153c4af3979dd74f14e079f73bf1ffc43d22801e0444a62d65d54dfb7ac834cda2644261828cb473f06974b95a1d53c5d7d7625d8c8c14125cdd&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=AzVQgH54Pb2TJQDBDjdQDgs%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
+
