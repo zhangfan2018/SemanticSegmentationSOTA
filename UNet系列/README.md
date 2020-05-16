@@ -25,4 +25,14 @@ Padding 卷积， instance normalization, Leaky ReLU;
 
 *********************************MultiResUNet***********************************************************
 1.代码地址：https://github.com/nibtehaz/MultiResUNet
+MultiRes block通过串联3*3卷积、跳跃连接融合不同尺度特征图；采用Res path消除低尺度和高尺度特征融合的差异；
+
+***********************AttentionU-Net: LearningWheretoLookforthePancreas***********************
+1.采用 Attention Gate机制实现不同尺度特征的融合，以抑制不相关区域，提升显著性特，从而目标不同尺度和大小的变化。
+2.分别对低尺度和高尺度特征进行卷积，然后相加，Relu激活，卷积，sigmoid激活，重采样；
+
+
+
+
+
 
