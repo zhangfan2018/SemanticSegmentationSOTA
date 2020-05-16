@@ -5,4 +5,6 @@ https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247492506&idx=3&sn=a5b524
 2.【面试现场】如何在10亿数中找出前1000大的数 
 https://mp.weixin.qq.com/s?__biz=MzA5MzY4NTQwMA==&mid=2651006837&idx=2&sn=2b86afdbba242f373cacc06789c53bdc&chksm=8bad9482bcda1d9477866422d886d5dfa17e181c168d5cf1f465795030e4573a4c663410c845&scene=0&key=6af4cd419cf2c40c03edc2f93e1cbfb59e60e227228db4e368d36b97c97233146514711850485e2a47ec01bea53f1582f8189f81b0d85cb8a12b4a89ffddb46801bbc5acb43ee338cf8ef45240d4e5dd&ascene=1&uin=MjQ4OTg4MDUxMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A%2BMvjAZnXvMj4AGHjQgSRdo%3D&pass_ticket=z07bwmrtJGVo64voTtPlUhFO4HVcWg0bO1w5f7WgW6vlddv9G8KfX20XCfztXKfr
 
-3.
+3.深度学习算法与编程
+https://blog.csdn.net/oBrightLamp/article/details/85067981
+
